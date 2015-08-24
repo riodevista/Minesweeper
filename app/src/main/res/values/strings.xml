@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+
+    <!--MainMenuActivity-->
+    <string name="enter_your_name">Введите имя, чтобы начать игру:</string>
+    <string name="start_game_button_title">Начать игру</string>
+    <string name="top10_button_title">Топ-10</string>
+    <string name="enter_your_name_message">Необходимо ввести имя</string>
+
+    <!--ChooseDifficultyActivity-->
+    <string name="start_simple_game_button_title">Новичок</string>
+    <string name="start_normal_game_button_title">Любитель</string>
+    <string name="start_hard_game_button_title">Профессионал</string>
+
+    <!--Top10Dialog-->
+    <string name="okay_button_title">Закрыть</string>
+    <string name="top10_dialog_title">Топ-10</string>
+
+    <!--GameScreenActivity-->
+
+    <!--GameOverDialog-->
+    <string name="winning_message">Выиграл!</string>
+    <string name="loosing_message">Проиграл!</string>
+    <string name="end_game_button_title">Завершить</string>
+    <string name="restart_game_button_title">Перезапустить игру</string>
+    <string name="new_game_button_title">Начать новую игру</string>
+
+</resources>
